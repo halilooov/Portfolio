@@ -1,0 +1,14 @@
+.ListItem {
+    list-style-type: none;
+}
+
+.Link {
+    color: #828282;
+    font-size: 18px;
+    line-height: 22px;
+
+}
+
+.active {
+    color: #070707;
+}

@@ -1,0 +1,16 @@
+.ListItem {
+    margin: 0 auto;
+    max-width: 166px;
+}
+
+.ListItem img {
+    max-width: 100%;
+}
+
+.ListItem p {
+    color: #828282;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 25px 0 40px;
+    text-align: center;
+}

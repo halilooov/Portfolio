@@ -1,6 +1,7 @@
 import React from 'react'
 import classes from './Home.module.css'
-import Container from '../../hoc/Container/Container';
+import Container from '../../hoc/Container/Container'
+import Nazim from '../../assets/Nazim.png'
 
 const Home = props => {
     return (
@@ -16,7 +17,7 @@ const Home = props => {
                         19 years old, Moscow
                     </p>
                 </div>
-                <img src="https://dummyimage.com/940x360/fff/aaa" alt=""/>
+                <img src={Nazim} alt="Nazim"/>
             </div>
         </Container>
     )

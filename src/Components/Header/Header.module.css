@@ -1,11 +1,10 @@
 .Header {
-
+    margin-top: 35px;
 }
 
-.Header_list-item {
-
-}
-
-.Header_link {
-
+.Line {
+    max-width: 940px;
+    height: 1px;
+    background-color: #828282;
+    margin-top: 32px;
 }

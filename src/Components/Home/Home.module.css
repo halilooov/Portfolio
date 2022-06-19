@@ -1,0 +1,25 @@
+.Home {
+    margin-top: 40px;
+}
+
+.Home > div {
+    color: #070707;
+    display: flex;
+    align-items: flex-end;
+}
+
+.Home h2 {
+    font-size: 48px;
+    line-height: 59px;
+}
+
+.Home p {
+    display: inline-block;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.Home img {
+    max-width: 100%;
+    max-height: 100%;
+}

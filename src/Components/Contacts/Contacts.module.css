@@ -1,0 +1,35 @@
+.Contacts {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.Contacts h3 {
+    margin-bottom: 20px;
+}
+
+.Contacts button {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    background-color: #070707;
+    width: 180px;
+    height: 42px;
+    border-radius: 42px;
+    margin-top: 30px;
+}
+
+.Contacts ul {
+    list-style-type: none;
+    display: flex;
+    column-gap: 62px;
+    margin: 86px 0 46px;
+}
+
+.description {
+    color: #828282;
+    font-size: 14px;
+    line-height: 17px;
+    margin-bottom: 123px;
+}

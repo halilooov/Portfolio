@@ -8,7 +8,6 @@ const Skills = props => {
         <Container>
             <div className={classes.Skills}>
                 <h3>Skills</h3>
-                <p>I work in such programs as</p>
                 <List />
             </div>
         </Container>

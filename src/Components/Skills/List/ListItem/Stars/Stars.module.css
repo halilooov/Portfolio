@@ -1,0 +1,6 @@
+.Stars {
+    display: flex;
+    justify-content: center;
+    column-gap: 9px;
+    list-style-type: none;
+}

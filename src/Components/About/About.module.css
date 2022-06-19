@@ -1,0 +1,19 @@
+.About {
+    display: flex;
+    background-color: #f6f6f6;
+}
+
+.Info {
+
+}
+
+.Info h3 {
+    margin-top: 120px;
+    text-align: center;
+}
+
+.Info p {
+    max-width: 485px;
+    margin: 18px auto 107px;
+    text-align: center;
+}

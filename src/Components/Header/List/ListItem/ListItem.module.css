@@ -1,0 +1,21 @@
+.ListItem {
+    list-style-type: none;
+    margin: 0;
+}
+
+.Link {
+    text-decoration: none;
+    color: #828282;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+}
+
+.Link:hover {
+    color: #070707;
+    transition-duration: .3s;
+}
+
+.active {
+    color: #070707;
+}

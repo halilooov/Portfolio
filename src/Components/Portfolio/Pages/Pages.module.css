@@ -1,0 +1,8 @@
+.Pages {
+    margin-top: 47px;
+    margin-bottom: 96px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    row-gap: 99px;
+}

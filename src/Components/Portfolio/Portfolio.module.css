@@ -1,3 +1,13 @@
 .Portfolio {
+    background-color: #f6f6f6;
+    display: flex;
+    justify-content: center;
+}
 
+.Portfolio > div {
+    text-align: center;
+}
+
+.Portfolio h3 {
+    padding-top: 113px;
 }

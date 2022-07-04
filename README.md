@@ -1,1 +1,1 @@
-(./src/assets/portfolio.png)
+(/src/assets/portfolio.png)
